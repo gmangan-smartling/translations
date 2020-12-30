@@ -18,7 +18,7 @@
              "type"                      : "json",
              "authorizeContent"          : "false",
              "pathRegex"                 : "(?<path>.*)\\.en\\.US\\.json",
-             "translationPathExpression" : "${path}${originalFile.baseName.replaceAll('.en.US', locale)}.${originalFile.extension}",
+             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('.en.US', locale)}.${originalFile.extension}",
              "translationCommitMessage"  : "Translation task for ${originalFile.name} to ${locale}"
          }
 
