@@ -1,0 +1,1040 @@
+{
+  "tutorials": [
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-glitch-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-glitch-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Glitch up your photos in seconds!",
+          "title": "Glitch"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-glitch-step1.jpg",
+              "label": "1. Glitch"
+            }
+          ],
+          "text": "Choose a photo with a dark background. Tap Effects > Glitch  > CH1 > slide to adjust.",
+          "title": "Apply Glitch"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-glitch-step2.jpg",
+              "label": "2. Colors"
+            }
+          ],
+          "text": "Tap CH1 again to adjust Color. Tap checkmark.",
+          "title": "Choose Your Colors"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-glitch-step3.jpg",
+              "label": "3. Filters"
+            }
+          ],
+          "text": "Tap Filters > Film > choose a preset. We chose FL7.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-glitch-thumbnail.jpg",
+      "key": "Glitch It!",
+      "title": "Glitch It!"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-hidden_landscape-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-hidden_landscape-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Mix a geometric shape and a landscape photo into mysterious art.",
+          "title": "Hidden Landscape"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-hidden_landscape-step1.jpg",
+              "label": "1. Frame"
+            }
+          ],
+          "text": "Start with a landscape photo. Tap Frame > ES2. Slide to adjust. Tap checkmark.",
+          "title": "Add Frame"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-hidden_landscape-step2.jpg",
+              "label": "2. Elements"
+            }
+          ],
+          "text": "Tap + to add an Element Layer. Replace the given Element to ES20. Move to adjust composition.",
+          "title": "Geometric Style"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-hidden_landscape-after.jpg",
+              "label": "3. Elements"
+            }
+          ],
+          "text": "Tap the back arrow and adjust Color and Blending.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-hidden_landscape-thumbnail.jpg",
+      "key": "Hidden Landscape",
+      "title": "Hidden Landscape"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-no_limits-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Use Text and Elements to create an awesome composition.",
+          "title": "No Limits"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-step1.jpg",
+              "label": "1. Element"
+            }
+          ],
+          "text": "Tap the + to add an Element. Replace the added Element with ES6 and place it slightly off center.",
+          "title": "Element #1"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-step2.jpg",
+              "label": "2. Element"
+            }
+          ],
+          "text": "Tap the back arrow to set the Color to your choice > tap Blending and select Overlay.",
+          "title": "Color & Blending"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-step3.jpg",
+              "label": "3. Element"
+            }
+          ],
+          "text": "Repeat the previous 2 steps, but use Darken for the Blending mode (instead of Overlay).",
+          "title": "Element #2"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-step4.jpg",
+              "label": "4. Main"
+            }
+          ],
+          "text": "Tap + to add a Text Layer and tap the Layer to edit the text. Tap Spacing adjust the layout.",
+          "title": "Leave A Message"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-step5.jpg",
+              "label": "5. Eraser"
+            }
+          ],
+          "text": "Use Eraser to erase parts of the text.",
+          "title": "Erase"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-no_limits-after.jpg",
+              "label": "6. Vignette"
+            }
+          ],
+          "text": "Tap Effects > Vignette to add more focus to your masterpiece.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "medium",
+      "thumbnail": "tutorial-no_limits-thumbnail.jpg",
+      "key": "No Limits",
+      "title": "No Limits"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-urban_animal-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Use Layers and Filters to give any ordinary portrait a suprising twist.",
+          "title": "Urban Animal"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Start with any portrait. Tap + to add a new photo of an animal.",
+          "title": "Combine Images"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-step2.jpg",
+              "label": "2. Eraser"
+            }
+          ],
+          "text": "Use Eraser to erase everything but the animal's head. Fit the head in place.",
+          "title": "Erase Parts"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-step3.jpg",
+              "label": "3. Main"
+            }
+          ],
+          "text": "Long press the top Layer. Drag & drop it over the bottom Layer to merge the images.",
+          "title": "Merge Layers"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-step4.jpg",
+              "label": "4. Filters"
+            }
+          ],
+          "text": "Tap Filters. Select a dramatic filter, like MG6.",
+          "title": "Filter Time"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-urban_animal-after.jpg",
+              "label": "5. Filters"
+            }
+          ],
+          "text": "Explore more Filters for a different result.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-urban_animal-thumbnail.jpg",
+      "key": "Urban Animal",
+      "title": "Urban Animal"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-coffee_trip-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-coffee_trip-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Combine photos and create a surreal, new world.",
+          "title": "Coffee Road"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-coffee_trip-step1.jpg",
+              "label": "2. Main"
+            }
+          ],
+          "text": "Tap + to add a coffee photo. Resize the photo to cover the background image.",
+          "title": "Add Coffee"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-coffee_trip-step2.jpg",
+              "label": "3. Main"
+            }
+          ],
+          "text": "Hold and drag the coffee image below your original photo. ",
+          "title": "Arrange Layers"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-coffee_trip-step3.jpg",
+              "label": "4. Eraser"
+            }
+          ],
+          "text": "Select top layer. Use Eraser to erase parts of the photo.",
+          "title": "Erase"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-coffee_trip-step4.jpg",
+              "label": "4. Vignette"
+            }
+          ],
+          "text": "Drag & drop layers to merge. Tap Effects > Vignette > Pinch to adjust.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-coffee_trip-thumbnail.jpg",
+      "key": "Coffee Trip",
+      "title": "Coffee Trip"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-Double_Exposure-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Create a brilliant Double Exposure effect using Layers.",
+          "title": "Double Exposure"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Select a photo. Tap + to add a second photo. Enlarge the second photo to cover the first layer.",
+          "title": "Pick Photos"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-step2.jpg",
+              "label": "2. Blending mode"
+            }
+          ],
+          "text": "Tap Blending. Select the Lighten Blending pack.",
+          "title": "Blend It"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-step3.jpg",
+              "label": "3. Main"
+            }
+          ],
+          "text": "Tap + to add a 3rd photo. Consider composition when moving and resizing.",
+          "title": "New Layer"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-step4.jpg",
+              "label": "4. Blending mode"
+            }
+          ],
+          "text": "Tap Blending. Select any Blending mode. Use the Eraser tool where needed.",
+          "title": "Blend Again"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Double_Exposure-after.jpg",
+              "label": "5. Blending mode"
+            }
+          ],
+          "text": "Get creative! Repeat the steps using different Blending modes.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "medium",
+      "thumbnail": "tutorial-Double_Exposure-thumbnail.jpg",
+      "key": "Double Exposure",
+      "title": "Double Exposure"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-cloud_wanderer-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Let your spirit free with this magical collage.",
+          "title": "Cloud Wanderer"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Tap + to add a cloud photo. Resize the photo to cover the background image.",
+          "title": "Add Clouds"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-step2.jpg",
+              "label": "2. Main"
+            }
+          ],
+          "text": "Hold and drag the cloud image Layer below your original photo. Tap + to add an Element Layer.",
+          "title": "Arrange Layers"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-step3.jpg",
+              "label": "3. Element"
+            }
+          ],
+          "text": "Replace the given Element with ES12 and adjust composition",
+          "title": "Element Composition"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-step4.jpg",
+              "label": "4. Eraser"
+            }
+          ],
+          "text": "Use Eraser to erase parts of the Element.",
+          "title": "Erase & Reveal"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-step5.jpg",
+              "label": "5. Eraser"
+            }
+          ],
+          "text": "Select middle Layer. Tap the Eraser and swipe within the Element to bring out the clouds. ",
+          "title": "Reveal More"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-cloud_wanderer-after.jpg",
+              "label": "6. Effects"
+            }
+          ],
+          "text": "Drag & drop Layers to merge. Tap Brushes > Magic > Brush tip > ES8. Swipe to decorate.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "medium",
+      "thumbnail": "tutorial-cloud_wanderer-thumbnail.jpg",
+      "key": "Cloud Wanderer",
+      "title": "Cloud Wanderer"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-pastel_power-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Create this unique Insta-pic using Layers. A person dressed in dark colors will work best.",
+          "title": "Pastel Power"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Tap + to add a cloud photo. Resize the photo to cover the background image.",
+          "title": "Add Clouds"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step2.jpg",
+              "label": "2. Main"
+            }
+          ],
+          "text": "Tap Blending. Select Lighten.",
+          "title": "Double Exposure"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step3.jpg",
+              "label": "3. Main"
+            }
+          ],
+          "text": "Hold & drag top layer over the bottom Layer to merge.",
+          "title": "Merge Layers"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step4.jpg",
+              "label": "4. Eraser"
+            }
+          ],
+          "text": "Use Eraser to erase the background.",
+          "title": "Remove Background"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step5.jpg",
+              "label": "5. Main"
+            }
+          ],
+          "text": "Tap + to add a Fill Layer. Hold and drag it below your original image.",
+          "title": "Layer & Reorder"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step6.jpg",
+              "label": "6.Convert"
+            }
+          ],
+          "text": "Tap Convert. Now, you'll be editing this Layer as an image.",
+          "title": "Convert it"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step7.jpg",
+              "label": "7.Duo"
+            }
+          ],
+          "text": "Tap Effects > Duo > ES6. Tap again to change Blending to Normal. Pick Colors 1 & 2. Tap checkmark.",
+          "title": "Add Gradient"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step8.jpg",
+              "label": "8. Main"
+            }
+          ],
+          "text": "Tap + to add an Element Layer. Long press and drag it to be the middle Layer.",
+          "title": "Layer & Reorder Again"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step9.jpg",
+              "label": "9. Element"
+            }
+          ],
+          "text": "Convert this Layer to an image by tapping Convert. This will allow for more editing!",
+          "title": "Convert it"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-step10.jpg",
+              "label": "10. Duo"
+            }
+          ],
+          "text": "Tap Effects > Duo > pick any preset. Tap again > Blending > Normal. Tap the back arrow > tap Color to adjust. Tap the checkmark.",
+          "title": "More Gradients"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-pastel_power-after.jpg",
+              "label": "11. Light FX"
+            }
+          ],
+          "text": "Drag & drop layers to merge. Tap Effects > Light FX. Now add Flare with FL4.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "advanced",
+      "thumbnail": "tutorial-pastel_power-thumbnail.jpg",
+      "key": "Pastel Power",
+      "title": "Pastel Power"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-surreal_mountain-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Turn a landscape into a surreal experience. Start with a landscape photo.",
+          "title": "Surreal Mountain"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Tap and drag your landscape Layer onto the + to Duplicate. Then, select the top Layer.",
+          "title": "Duplicate"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-step2.jpg",
+              "label": "2. Frame"
+            }
+          ],
+          "text": "Tap Frame > ES2. Tap again to enter preset tools.",
+          "title": "Add a Frame"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-step3.jpg",
+              "label": "3. Frame"
+            }
+          ],
+          "text": "Tap Fit, use your finger & move the image to expose more of the mountains. Tap checkmark.",
+          "title": "Perfect Composition "
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-step4.jpg",
+              "label": "4. Main"
+            }
+          ],
+          "text": "Tap Transform > V-Flip.",
+          "title": "Flip It"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-step5.jpg",
+              "label": "5. Eraser"
+            }
+          ],
+          "text": "Use Eraser to erase frame & excess sky. Adjust composition.",
+          "title": "Erase the Frame"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-surreal_mountain-after.jpg",
+              "label": "6. Filters"
+            }
+          ],
+          "text": "Tap & drag one layer over another to Merge. Tap Filters to enhance colors.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-surreal_mountain-thumbnail.jpg",
+      "key": "Surreal Mountain",
+      "title": "Surreal Mountain"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-watercolor_portrait-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "To create this colorful portrait you’ll need a BW image. Tap Filters > BW > pick a preset to make one.",
+          "title": "Watercolor Portrait"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Tap + to add a photo of a colorful splash. Pinch the photo to cover the background image.",
+          "title": "Add Some Color!"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step2.jpg",
+              "label": "2. Main"
+            }
+          ],
+          "text": "Tap Blending. Select Lighten.",
+          "title": "Blending"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step3.jpg",
+              "label": "3. Main"
+            }
+          ],
+          "text": "Long press the top layer. Drag & drop it over the bottom Layer to merge images.",
+          "title": "Merge Layers"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step4.jpg",
+              "label": "4. Main"
+            }
+          ],
+          "text": "Tap + to add a Fill Layer.",
+          "title": "Layer Again"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step5.jpg",
+              "label": "5. Fill"
+            }
+          ],
+          "text": "Tap Paper. Select the paper you like best and tap the back arrow.",
+          "title": "Add Texture"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step6.jpg",
+              "label": "6. Main"
+            }
+          ],
+          "text": "Tap Blending > select Multiply. ",
+          "title": "Blend Again"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step7.jpg",
+              "label": "7. Main"
+            }
+          ],
+          "text": "Drag & drop the top Layer over the bottom Layer to merge.",
+          "title": "Merge Again"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-step8.jpg",
+              "label": "8. Film"
+            }
+          ],
+          "text": "Tap Filters > Film > FL1. Tap again to adjust and tap Scratches. Select Specks > SP7. Tap checkmark.",
+          "title": "More Texture"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-watercolor_portrait-after.jpg",
+              "label": "9 Elements"
+            }
+          ],
+          "text": "Tap + and add an Element Layer to finalize your composition.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "advanced",
+      "thumbnail": "tutorial-watercolor_portrait-thumbnail.jpg",
+      "key": "Watercolor Portrait",
+      "title": "Watercolor Portrait"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-Frametastic-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Add a colorful twist to a portrait using Effects & Elements.",
+          "title": "Frametastic"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-step1.jpg",
+              "label": "1. Main"
+            }
+          ],
+          "text": "Tap + to add an empty Layer. Now you’ll be working on that empty Layer.",
+          "title": "Layer It"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-step2.jpg",
+              "label": "2. Brushes"
+            }
+          ],
+          "text": "Tap Brushes > Magic > Brush Tip. Select ES7 and apply to your photo.",
+          "title": "Splash!"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-step3.jpg",
+              "label": "3. Element"
+            }
+          ],
+          "text": "Tap + to add an Element. Replace the added Element with ES10, fit over the image.",
+          "title": "Frame Your Face"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-step3.jpg",
+              "label": "4. Element"
+            }
+          ],
+          "text": "Tap the back arrow to adjust the color.",
+          "title": "Color it"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-step4.jpg",
+              "label": "5. Eraser"
+            }
+          ],
+          "text": "Tap the Eraser tool to reveal the parts inside the Element.",
+          "title": "Erase & Reveal"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-Frametastic-after.jpg",
+              "label": "6. Brushes"
+            }
+          ],
+          "text": "Try out more Magic Brush packs for a different look. ",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-Frametastic-thumbnail.jpg",
+      "key": "Frametastic",
+      "title": "Frametastic"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-BoldBeautiful-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Welcome Summer with a typographic tutorial that's bold & bright!",
+          "title": "Bold & Beautiful"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step1.jpg",
+              "label": "1. Frame"
+            }
+          ],
+          "text": "Tap Frame. Select BO1, swipe to adjust. Tap preset again to pick a Color.",
+          "title": "Choose Frame"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step2.jpg",
+              "label": "2. Main"
+            }
+          ],
+          "text": "Tap + to add a Text Layer.",
+          "title": "New Layer"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step3.jpg",
+              "label": "3. Text"
+            }
+          ],
+          "text": "Tap Edit to type an inspiring message. Tap Font and select CR3. Tap the back arrow.",
+          "title": "Personalize It"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step4.jpg",
+              "label": "4. Convert"
+            }
+          ],
+          "text": "Tap Convert to make this Layer an Image Layer. Now, you'll be working on this Layer as an image.",
+          "title": "Convert It"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step5.jpg",
+              "label": "5. Duo"
+            }
+          ],
+          "text": "Tap Effects > Duo. Tap the preset twice to choose its Shape and Colors. Try different Blending modes. Tap checkmark.",
+          "title": "Gradient Upgrade"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-step6.jpg",
+              "label": "6. Main"
+            }
+          ],
+          "text": "Use Eraser to hide parts of the text \"behind\" your image.",
+          "title": "Hide Text"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-BoldBeautiful-after.jpg",
+              "label": "7. Filters"
+            }
+          ],
+          "text": "Drag & drop Layers to merge, then add a Filter for a final tweak. ",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "medium",
+      "thumbnail": "tutorial-BoldBeautiful-thumbnail.jpg",
+      "key": "Bold & Beautiful",
+      "title": "Bold & Beautiful"
+    },
+    {
+      "slides": [
+        {
+          "images": [
+            {
+              "image": "tutorial-teen_spirit-before.jpg",
+              "label": "Before"
+            },
+            {
+              "image": "tutorial-teen_spirit-after.jpg",
+              "label": "After"
+            }
+          ],
+          "text": "Give any photo a nostalgic feeling with this 90’s throwback tutorial.",
+          "title": "Teen Spirit"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-teen_spirit-step1.jpg",
+              "label": "1. Filters"
+            }
+          ],
+          "text": "Start with any portrait. Tap Filter > Film Pack > pick a preset. Tap it again to adjust & experiment.",
+          "title": "Analog Vibe"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-teen_spirit-step2.jpg",
+              "label": "2. Filters"
+            }
+          ],
+          "text": "Tap Scratches. Select ES1 & slide to adjust. Tap checkmark.",
+          "title": "Add Scratches"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-teen_spirit-step3.jpg",
+              "label": "3. Light FX"
+            }
+          ],
+          "text": "Tap Effects > Light FX > ES9. Tap ES9 again to set Hue to 11. Tap checkmark.",
+          "title": "Light Leak"
+        },
+        {
+          "images": [
+            {
+              "image": "tutorial-teen_spirit-after.jpg",
+              "label": "4. Vignette"
+            }
+          ],
+          "text": "Give your image focus. Tap Effects > Vignette > pinch to adjust.",
+          "title": "Finishing Touch"
+        }
+      ],
+      "difficulty": "easy",
+      "thumbnail": "tutorial-teen_spirit-thumbnail.jpg",
+      "key": "Teen Spirit",
+      "title": "Teen Spirit"
+    }
+  ]
+}
