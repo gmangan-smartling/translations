@@ -1,0 +1,300 @@
+[
+{
+  "battleDescription" : "Cet adorable trio aurait besoin d'une touche de couleur dans leur monde 🐦 Entrez dans la bataille de Photofox dès maintenant !",
+  "expirationDate" : "2018-10-28T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of three black birds on white background.",
+  "images" : ["BW_Birds_21.10.18.jpg"],
+  "key" : "black_and_white_birds",
+  "name" : "Black & White Birds",
+  "photoCredit" : "Glen Carrie (@glencarrie) on Unsplash",
+  "thumbnail" : ""
+},
+
+{
+  "battleDescription" : "Le 4 novembre est le #NationalCandyDay 🍭. Vous pouvez vous sucrer le bec sur & et participer à la bataille de Photofox !",
+  "expirationDate" : "2018-11-11T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "An image of a candy.",
+  "images" : ["Candy_Day_4.11.18.jpg"],
+  "key" : "national_candy_day",
+  "name" : "#NationalCandyDay",
+  "photoCredit" : "Somben Chea on Pexels",
+  "thumbnail" : ""
+},
+
+{
+  "battleDescription" : "Le 13 novembre, c'est le #WorldKindnessDay ❤️ Ouvrez votre cœur, soyez créatifs et participez à cette Bataille Photofox !",
+  "expirationDate" : "2018-11-18T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of stick man holding a giant heart.",
+  "images" : ["Kindness_Day_11.11.18.jpg"],
+  "key" : "world_kindness_day",
+  "name" : "#WorldKindnessDay",
+  "photoCredit" : "Nick Fewings (@jannerboy62) on Unsplash",
+  "thumbnail" : ""
+},
+
+{
+  "battleDescription" : "Quel message voulez-vous partager pour Thanksgiving? Exprimez-vous lors de la Bataille Photofox festive de cette semaine 🦃 Exprimez-vous dans la bataille de photofox de cette semaine 🦃",
+  "expirationDate" : "2018-11-25T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of wooden background with a place to write a message in the center.",
+  "images" : ["Thanksgiving_18.11.18.jpg"],
+  "key" : "thanksgiving",
+  "name" : "Thanksgiving",
+  "photoCredit" : "Beth Rufener (@creatifolio) on Unsplash",
+  "thumbnail" : ""
+},
+
+{
+  "battleDescription" : "Regardez toujours au-delà ce que vous pouvez voir ✨ Quelle est votre vision pour la Bataille Photofox de cette semaine ?",
+  "expirationDate" : "2018-12-02T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of boy and girl looking at a country house sitting on a mountain near the horizon.",
+  "images" : ["Thanksgiving_18.11.18.jpg"],
+  "key" : "look_beyond_battle",
+  "name" : "Look Beyond",
+  "photoCredit" : "Jur Wiersema (@jurwiersema) on Unsplash",
+  "thumbnail" : ""
+},
+
+{
+  "battleDescription" : "Laissez libre cours à votre imagination et décorez ce bonhomme de neige pour la nouvelle Bataille Photofox  ⛄️",
+  "expirationDate" : "2018-12-12T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a snowman.",
+  "images" : ["Snowman_5.12.18.jpg"],
+  "key" : "snowman",
+  "name" : "Snowman",
+  "photoCredit" : "Nathan Wolfe (@wolfehausdesign) on Unsplash",
+  "thumbnail" : "Snowman_5.12.18.jpg"
+},
+
+{
+  "battleDescription" : "Participez sans attendre au jeu de Noël #PhotofoxBattle et GAGNEZ peut-être une carte-cadeau Amazon d'une valeur de 250 $ et un accès Pro à vie pour toutes les apps Enlight.  ❄️",
+  "expirationDate" : "2018-12-26T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a crystal ball.",
+  "images" : ["Holiday_12.12.18.jpg"],
+  "key" : "holiday_2018",
+  "name" : "Holiday contest",
+  "photoCredit" : "Pexels",
+  "thumbnail" : "Holiday_12.12.18.jpg"
+},
+
+{
+  "battleDescription" : "Restez bien au chaud et en avant la créativité ! Participez à la nouvelle Bataille Photofox maintenant ☕️",
+  "expirationDate" : "2019-01-02T12:00:00",
+  "facebookPostLink" : "https://www.facebook.com/enlightphotofox/photos/a.392586294277048/1072357926299878/?type=3&theater",
+  "imageDescription" : "Image of coffee cup.",
+  "images" : ["Coffee_26.12.18.jpg"],
+  "key" : "steaming_coffee",
+  "name" : "Steaming Coffee",
+  "photoCredit" : "Alex (@worthyofelegance) on Unsplash",
+  "thumbnail" : "Coffee_26.12.18.jpg"
+},
+
+{
+  "battleDescription" : "Commencez l'année 2019 sous le signe de la sérénité et de la quiétude 🧘 Participez à la première Photofox Battle de l'année !",
+  "expirationDate" : "2019-01-09T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of woman standing on a cliff in front of the sea, doing a yoga pose (tree posture) with hands held high.",
+  "images" : ["Yoga_02.01.19.jpg"],
+  "key" : "yoga",
+  "name" : "Yoga Battle",
+  "photoCredit" : "Nathan Cowley (@mastercowley) on Pexels",
+  "thumbnail" : "Yoga_02.01.19.jpg"
+},
+
+{
+  "battleDescription" : "Participez à la Photofox Battle de la semaine, mais faites attention de ne pas vous fourvoyer ! 🦌",
+  "expirationDate" : "2019-01-16T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a deer walking on ice.",
+  "images" : ["Deer_09.01.19.jpg"],
+  "key" : "deer",
+  "name" : "Deer Battle",
+  "photoCredit" : "Jeremy Perkins (@jeremyperkins) on Unsplash ",
+  "thumbnail" : "Deer_09.01.19.jpg"
+},
+
+{
+  "battleDescription" : "Prenez contact avec nous et participez à la dernière bataille de Photofox 🤝",
+  "expirationDate" : "2019-01-22T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of hand slightly touch each other.",
+  "images" : ["reach_out_16.01.19.jpg"],
+  "key" : "reach_out",
+  "name" : "Reach Out Battle",
+  "photoCredit" : "Toa Heftiba (@heftiba) on Unsplash",
+  "thumbnail" : "reach_out_16.01.19.jpg"
+},
+
+{
+  "battleDescription" : "La tête dans les nuages, avec la dernière battle Photofox ☁️️",
+  "expirationDate" : "2019-01-29T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of airplane window.",
+  "images" : ["airplane_window_23.01.19.jpg"],
+  "key" : "airplane_window",
+  "name" : "Airplane Window",
+  "photoCredit" : "Tiago B (@guesh1337) on Unsplash",
+  "thumbnail" : "airplane_window_23.01.19.jpg"
+},
+
+{
+  "battleDescription" : "C'est toujours une happy hour quelque part 🍷 Faites preuve de créativité et participez à la nouvelle bataille de Photofox !",
+  "expirationDate" : "2019-02-05T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of cocktail glass.",
+  "images" : ["Cocktail_30.01.19.jpg"],
+  "key" : "happy_hour",
+  "name" : "Happy Hour",
+  "photoCredit" : "Eugenia Vysochyna (@eugenivy) on Unsplash",
+  "thumbnail" : "Cocktail_30.01.19.jpg"
+},
+
+{
+  "battleDescription" : "Le 355 février est le #NationalPizzaDay &#x1F; Commandez une tranche et participez à la bataille de Photofox de cette semaine ! ",
+  "expirationDate" : "2019-02-12T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a pizza slice.",
+  "images" : ["Pizza_06.02.19.jpg"],
+  "key" : "pizza",
+  "name" : "Pizza Battle",
+  "photoCredit" : "Jeremy Perkins (@jeremyperkins) on Unsplash",
+  "thumbnail" : "Pizza_06.02.19.jpg"
+},
+
+{
+  "battleDescription" : "Célébrez l'amour en entrant dans la nouvelle bataille de la Saint-Valentin 💗 Photofox !",
+  "expirationDate" : "2019-02-19T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a couple riding bikes.",
+  "images" : ["valentine_13.01.19.jpg"],
+  "key" : "valentine_day",
+  "name" : "Valentine’s Day",
+  "photoCredit" : "Everton Vila on Unsplash (@evertonvila)",
+  "thumbnail" : "valentine_13.01.19.jpg"
+},
+
+{
+  "battleDescription" : "Cultivez là où vous êtes planté 🌱 Entrez dans la bataille de Photofox de cette semaine dès maintenant !",
+  "expirationDate" : "2019-02-26T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a succulent.",
+  "images" : ["succulent_20.02.19.jpg"],
+  "key" : "succulent",
+  "name" : "Succulent Battle",
+  "photoCredit" : "Scott Webb on Unsplash (@scottwebb) ",
+  "thumbnail" : "succulent_20.02.19.jpg"
+},
+
+{
+  "battleDescription" : "Suivez votre propre boussole intérieure 🗺 Quelle direction allez-vous prendre pour la bataille de Photofox de cette semaine ?",
+  "expirationDate" : "2019-03-05T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a compass.",
+  "images" : ["compass_27.02.19.jpg"],
+  "key" : "compass",
+  "name" : "Compass Battle",
+  "photoCredit" : "Christopher Rusev on Unsplash (@ralics)",
+  "thumbnail" : "compass_27.02.19.jpg"
+},
+
+{
+  "battleDescription" : "Il ne faut pas toujours se fier aux apparences ✨ Laissez libre cours à votre créativité et participez dès maintenant à la battle de la semaine !",
+  "expirationDate" : "2019-03-12T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a mirror.",
+  "images" : ["reflection_06.03.19.jpg"],
+  "key" : "illusion",
+  "name" : "Illusion Battle",
+  "photoCredit" : "Marianna Mercado on Pexels",
+  "thumbnail" : "reflection_06.03.19.jpg"
+},
+
+{
+  "battleDescription" : "Soyez sauvage, soyez libre...& soyez créatif 🐴 Rejoignez la nouvelle bataille de Photofox !",
+  "expirationDate" : "2019-03-19T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a deer.",
+  "images" : ["horse_13.03.19.jpg"],
+  "key" : "horse",
+  "name" : "Horse Battle",
+  "photoCredit" : "Josephine Amalie Paysen on Unsplash (@josephineamaliepaysen)",
+  "thumbnail" : "horse_13.03.19.jpg"
+},
+
+{
+  "battleDescription" : "Les danseurs n'ont pas besoin d'ailes pour voler 💃 Feel the beat & participez dès maintenant à la bataille de Photofox de cette semaine !",
+  "expirationDate" : "2019-03-26T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a b&w dancer.",
+  "images" : ["bw_dance_20.03.19.jpg"],
+  "key" : "bw_dance",
+  "name" : "B&W Dance Battle",
+  "photoCredit" : "Matthew Henry on Unsplash (@matthewhenry)",
+  "thumbnail" : "bw_dance_20.03.19.jpg"
+},
+
+{
+  "battleDescription" : "Un bon café pour stimuler votre créativité ! Participez dès maintenant à la nouvelle battle Photofox ☕️",
+  "expirationDate" : "2019-04-02T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a coffee cup.",
+  "images" : ["coffee_create_27.03.19.jpg"],
+  "key" : "coffe_create",
+  "name" : "Coffee & Create Battle",
+  "photoCredit" : "Daniel Lincoln on Unsplash (@danny_lincoln)",
+  "thumbnail" : "coffee_create_27.03.19.jpg"
+},
+
+{
+  "battleDescription" : "Qu'est-ce qui éclore dans la bataille de Photofox de cette semaine ? Entrez maintenant 🐣",
+  "expirationDate" : "2019-04-09T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a ducks.",
+  "images" : ["duckling_9.04.19.jpg"],
+  "key" : "duckling",
+  "name" : "Duckling Battle",
+  "photoCredit" : "Jan Meeus on Unsplash (@janmeeus)",
+  "thumbnail" : "duckling_9.04.19.jpg"
+},
+
+{
+  "battleDescription" : "Ajoutez de la couleur à l’occasion de la Journée des frères et sœurs #SiblingsDay, qui a lieu cette semaine. Participez à la battle Photofox !",
+  "expirationDate" : "2019-04-169T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of siblings.",
+  "images" : ["sibling_16.04.19.jpg"],
+  "key" : "sibling",
+  "name" : "Sibling Battle",
+  "photoCredit" : "Annie Spratt on Unsplash (@anniespratt)",
+  "thumbnail" : "sibling_16.04.19.jpg"
+},
+
+{
+  "battleDescription" : "C'est presque le #EarthDay 🌎 Décollez et utilisez des effets de lumière dans la bataille de Photofox de cette semaine !",
+  "expirationDate" : "2019-04-23T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of an astronaut.",
+  "images" : ["earth_day_23.4.19.jpg"],
+  "key" : "earthDay",
+  "name" : "Earth Day",
+  "photoCredit" : "NASA on Unsplash (@nasa)",
+  "thumbnail" : "earth_day_23.4.19.jpg"
+},
+
+{
+  "battleDescription" : "Le lundi est le #InternationalDanceDay ! Faites danser cette ballerine dans le nouveau #PhotofoxBattle 💃️️",
+  "expirationDate" : "2019-04-30T12:00:00",
+  "facebookPostLink" : "",
+  "imageDescription" : "Image of a dancer.",
+  "images" : ["dance_day_30.4.19.jpg"],
+  "key" : "danceDay",
+  "name" : "Dance Day",
+  "photoCredit" : "Hudson Hintze on Unsplash (@hudsonhintze)",
+  "thumbnail" : "dance_day_30.4.19.jpg"
+}]
