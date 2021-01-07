@@ -670,7 +670,8 @@
             }
           ],
           "text": "Use Eraser to erase frame & excess sky. Adjust composition.",
-          "title": "Erase the Frame"
+          "title": "Erase the Frame",
+          "text": "this is a new string"
         },
         {
           "images": [

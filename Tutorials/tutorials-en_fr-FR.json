@@ -670,7 +670,8 @@
         "label" : "5. Gomme"
       }],
       "text" : "Utiliser la Gomme pour effacer le cadre blanc. Ajustez la composition.",
-      "title" : "Effacer le cadre"
+      "title" : "Effacer le cadre",
+      "text" : "c'est une nouvelle chaîne"
     },
 
     {
