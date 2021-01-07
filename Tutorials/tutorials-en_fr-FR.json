@@ -1,0 +1,1038 @@
+{
+  "tutorials" : [
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-glitch-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-glitch-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Glitchez vos photos en quelques secondes !",
+      "title" : "Glitch"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-glitch-step1.jpg",
+        "label" : "1. Glitch"
+      }],
+      "text" : "Choisissez une photo avec un fond sombre. Touchez Effets > Glitch > CH1 > glisser pour ajuster.",
+      "title" : "Appliquez Glitch"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-glitch-step2.jpg",
+        "label" : "2. Couleurs"
+      }],
+      "text" : "Touchez de nouveau CH1 pour régler la couleur. Touchez la coche.",
+      "title" : "Choisissez vos couleurs"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-glitch-step3.jpg",
+        "label" : "3. Filtres"
+      }],
+      "text" : "Touchez Filtres > Pellicule > choisissez un préréglage. Nous avons opté pour FL7.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-glitch-thumbnail.jpg",
+    "key" : "Glitch It!",
+    "title" : "Glitchez !"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-hidden_landscape-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-hidden_landscape-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Fusionnez une forme géométrique et une photo de paysage en œuvre d’art mystérieuse.",
+      "title" : "Paysage caché"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-hidden_landscape-step1.jpg",
+        "label" : "1. Cadre"
+      }],
+      "text" : "Commencez avec une photo de paysage. Touchez Cadre > ES2. Faites glisser pour ajuster. Touchez la coche.",
+      "title" : "Ajouter un cadre."
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-hidden_landscape-step2.jpg",
+        "label" : "2. Éléments"
+      }],
+      "text" : "Touchez + pour ajouter un calque d’élément. Remplacez l’élément par ES20. Déplacez pour ajuster la composition.",
+      "title" : "Style géométrique"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-hidden_landscape-after.jpg",
+        "label" : "3. Éléments"
+      }],
+      "text" : "Touchez la flèche de retour, puis réglez les paramètres Couleur et Fusion.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-hidden_landscape-thumbnail.jpg",
+    "key" : "Hidden Landscape",
+    "title" : "Paysage caché"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-no_limits-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Utilisez Texte et Éléments pour créer une composition fantastique.",
+      "title" : "Sans limites"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-step1.jpg",
+        "label" : "1. Élément"
+      }],
+      "text" : "Touchez + pour ajouter un élément. Remplacez l’élément ajouté par ES6, puis décentrez-le légèrement.",
+      "title" : "Élément n° 1"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-step2.jpg",
+        "label" : "2. Élément"
+      }],
+      "text" : "Touchez la flèche de retour pour définir la couleur de votre choix, puis touchez Fusion et sélectionnez Incrustation.",
+      "title" : "Couleur et fusion"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-step3.jpg",
+        "label" : "3. Élément"
+      }],
+      "text" : "Répétez les deux étapes précédentes, mais utilisez le mode de fusion Assombrir (au lieu de Incrustation).",
+      "title" : "Élément n° 2"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-step4.jpg",
+        "label" : "4. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque de texte, puis touchez le calque pour modifier le texte. Touchez Espace pour ajuster la présentation.",
+      "title" : "Laissez un message"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-step5.jpg",
+        "label" : "5. Gomme"
+      }],
+      "text" : "Utiliser la Gomme pour effacer des parties du texte.",
+      "title" : "Effacer"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-no_limits-after.jpg",
+        "label" : "6. Vignetage"
+      }],
+      "text" : "Touchez Effets > Vignetage pour mettre en valeur votre création.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "medium",
+    "thumbnail" : "tutorial-no_limits-thumbnail.jpg",
+    "key" : "No Limits",
+    "title" : "Sans limites"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-urban_animal-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Utilisez des calques et des filtres pour améliorer de façon surprenante un portrait banal.",
+      "title" : "Animal urbain"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Commencez par choisir un portrait. Touchez + pour ajouter une nouvelle photo d'un animal.",
+      "title" : "Combiner des images"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-step2.jpg",
+        "label" : "2. Gomme"
+      }],
+      "text" : "Utiliser la Gomme pour tout effacer sauf la tête de l’animal. Met la tête en place.",
+      "title" : "Effacer des zones"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-step3.jpg",
+        "label" : "3. Principal"
+      }],
+      "text" : "Appuyez de façon prolongée sur le calque supérieur. Faites-le glisser sur le calque du bas pour fusionner les images.",
+      "title" : "Fusionner des calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-step4.jpg",
+        "label" : "4. Filtres"
+      }],
+      "text" : "Touchez Filtres. Sélectionnez un filtre spectaculaire, par exemple MG6.",
+      "title" : "En avant les filtres"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-urban_animal-after.jpg",
+        "label" : "5. Filtres"
+      }],
+      "text" : "Explorez d'autres filtres pour obtenir un autre rendu.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-urban_animal-thumbnail.jpg",
+    "key" : "Urban Animal",
+    "title" : "Animal urbain"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-coffee_trip-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-coffee_trip-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Combinez des photos et créez un monde nouveau, surréel.",
+      "title" : "La route du café"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-coffee_trip-step1.jpg",
+        "label" : "2. Principal"
+      }],
+      "text" : "Touchez + pour ajouter une photo de café. Redimensionnez la photo pour recouvrir l’image d’arrière-plan.",
+      "title" : "Ajouter café"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-coffee_trip-step2.jpg",
+        "label" : "3. Principal"
+      }],
+      "text" : "Maintenez et tirez l’image du café en dessous de votre photo originale. ",
+      "title" : "Arrangez les calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-coffee_trip-step3.jpg",
+        "label" : "4. Gomme"
+      }],
+      "text" : "Sélectionner le calque du haut. Utiliser la Gomme pour effacer des parties de la photo.",
+      "title" : "Effacer"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-coffee_trip-step4.jpg",
+        "label" : "4. Vignetage"
+      }],
+      "text" : "Tirez & déposez des calques pour les fusionner. Touchez Effets > Vignetage > pincez pour ajuster.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-coffee_trip-thumbnail.jpg",
+    "key" : "Coffee Trip",
+    "title" : "Le voyage du café"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-Double_Exposure-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Créez un magnifique effet de double exposition avec des calques.",
+      "title" : "Double exposition"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Sélectionnez une photo. Touchez + pour ajouter une autre photo. Agrandissez la deuxième photo pour recouvrir le premier calque.",
+      "title" : "Choisir des photos"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-step2.jpg",
+        "label" : "2. Mode de fusion"
+      }],
+      "text" : "Touchez Fusion. Sélectionnez le pack de fusion Éclaircir.",
+      "title" : "Mélanger"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-step3.jpg",
+        "label" : "3. Principal"
+      }],
+      "text" : "Touchez + pour ajouter une 3e photo. Pensez à la composition lorsque vous déplacez ou redimensionnez l'image.",
+      "title" : "Nouveau calque"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-step4.jpg",
+        "label" : "4. Mode de fusion"
+      }],
+      "text" : "Touchez Fusion. Sélectionnez un mode de fusion. Utilisez l’outil Gomme si nécessaire.",
+      "title" : "Re-mélanger"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Double_Exposure-after.jpg",
+        "label" : "5. Mode de fusion"
+      }],
+      "text" : "Déployez toute votre créativité ! Répétez les étapes avec d'autres modes de fusion.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "medium",
+    "thumbnail" : "tutorial-Double_Exposure-thumbnail.jpg",
+    "key" : "Double Exposure",
+    "title" : "Double exposition"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-cloud_wanderer-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Libérez votre esprit avec ce collage magique.",
+      "title" : "Errant sur les nuages"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Touchez + pour ajouter une photo du nuage. Redimensionnez la photo pour recouvrir l’image d’arrière-plan.",
+      "title" : "Ajoutez des nuages"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-step2.jpg",
+        "label" : "2. Principal"
+      }],
+      "text" : "Appuyez de façon prolongée sur le calque de l’image du nuage et faites-le glisser sous la photo d’origine. Touchez + pour ajouter un calque d’élément.",
+      "title" : "Arrangez les calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-step3.jpg",
+        "label" : "3. Élément"
+      }],
+      "text" : "Remplacez l’élément par ES12, puis ajustez la composition.",
+      "title" : "Composition d’éléments"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-step4.jpg",
+        "label" : "4. Gomme"
+      }],
+      "text" : "Utiliser la Gomme pour effacer des parties de l’élément.",
+      "title" : "Effacer et révéler"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-step5.jpg",
+        "label" : "5. Gomme"
+      }],
+      "text" : "Sélectionnez le calque du milieu. Touchez la gomme, puis balayez l’élément pour faire ressortir les nuages. ",
+      "title" : "Révéler davantage"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-cloud_wanderer-after.jpg",
+        "label" : "6. Effets"
+      }],
+      "text" : "Glissez-déposez les calques pour les fusionner. Touchez Pinceaux > Magique > Pointe pinceau > ES8. Balayez pour décorer.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "medium",
+    "thumbnail" : "tutorial-cloud_wanderer-thumbnail.jpg",
+    "key" : "Cloud Wanderer",
+    "title" : "Errant sur les nuages"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-pastel_power-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Créez cet instantané unique à l’aide des calques. Cela marchera mieux avec une personne habillée de couleurs sombres.",
+      "title" : "La puissance des pastels"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Touchez + pour ajouter une photo du nuage. Redimensionnez la photo pour recouvrir l’image d’arrière-plan.",
+      "title" : "Ajoutez des nuages"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step2.jpg",
+        "label" : "2. Principal"
+      }],
+      "text" : "Touchez Fusion. Sélectionnez Éclaircir.",
+      "title" : "Double exposition"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step3.jpg",
+        "label" : "3. Principal"
+      }],
+      "text" : "Appuyez de façon prolongée sur le calque du dessus, puis faites-le glisser sur celui du bas pour les fusionner.",
+      "title" : "Fusionner des calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step4.jpg",
+        "label" : "4. Gomme"
+      }],
+      "text" : "Utiliser la gomme pour effacer l’arrière-plan.",
+      "title" : "Retirer arrière-plan"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step5.jpg",
+        "label" : "5. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque de remplissage. Appuyez de façon prolongée sur le calque et faites-le glisser sous l'image d'origine.",
+      "title" : "Réorganiser les calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step6.jpg",
+        "label" : "6. Convertir"
+      }],
+      "text" : "Touchez Convertir. Vous pouvez alors modifier ce calque sous forme d’image.",
+      "title" : "Convertissez-le"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step7.jpg",
+        "label" : "7. Duo"
+      }],
+      "text" : "Touchez Effets > Duo > ES6. Touchez de nouveau l’écran pour passer de Fusion à Normal. Touchez Couleurs 1 et 2. Touchez la coche.",
+      "title" : "Ajoutez un dégradé"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step8.jpg",
+        "label" : "8. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque d’élément. Appuyez de façon prolongée sur le calque pour le faire glisser en position intermédiaire.",
+      "title" : "Réorganiser les calques à nouveau"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step9.jpg",
+        "label" : "9. Élément"
+      }],
+      "text" : "Convertissez ce calque en image en appuyant sur Convertir. Vous pourrez ainsi effectuer d’autres modifications.",
+      "title" : "Convertissez-le"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-step10.jpg",
+        "label" : "10. Duo"
+      }],
+      "text" : "Touchez Effets > Duo > choisissez un préréglage. Touchez de nouveau > Fusion > Normal. Touchez la touche de retour, puis appuyez sur Couleur pour régler. Touchez la coche.",
+      "title" : "Plus de dégradés"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-pastel_power-after.jpg",
+        "label" : "11. FX lum."
+      }],
+      "text" : "Tirez & déposez des calques pour les fusionner. Touchez Effets > FX lum. Ajoutez maintenant du flamboiement avec FL4.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "advanced",
+    "thumbnail" : "tutorial-pastel_power-thumbnail.jpg",
+    "key" : "Pastel Power",
+    "title" : "La puissance des pastels"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-surreal_mountain-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Transformez un paysage en expérience surréaliste. Commencez avec une photo de paysage.",
+      "title" : "Montagne surréaliste"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Appuyez sur le calque de paysage et faites-le glisser sur l’icône + afin de le dupliquer. Sélectionnez ensuite le calque supérieur.",
+      "title" : "Dupliquer"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-step2.jpg",
+        "label" : "2. Cadre"
+      }],
+      "text" : "Touchez Cadre > ES2. Touchez de nouveau l’écran pour accéder aux outils du préréglage.",
+      "title" : "Ajouter un cadre"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-step3.jpg",
+        "label" : "3. Cadre"
+      }],
+      "text" : "Appuyez sur Adapter, puis déplacez l’image à l’aide d’un doigt pour afficher plus de montagnes. Touchez la coche.",
+      "title" : "Composition parfaite "
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-step4.jpg",
+        "label" : "4. Principal"
+      }],
+      "text" : "Touchez Transformer > Miroir-V.",
+      "title" : "Retournez-le"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-step5.jpg",
+        "label" : "5. Gomme"
+      }],
+      "text" : "Utiliser la Gomme pour effacer le cadre blanc. Ajustez la composition.",
+      "title" : "Effacer le cadre"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-surreal_mountain-after.jpg",
+        "label" : "6. Filtres"
+      }],
+      "text" : "Touchez et tirez un calque sur l’autre pour les fusionner. Touchez Filtres pour améliorer les couleurs.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-surreal_mountain-thumbnail.jpg",
+    "key" : "Surreal Mountain",
+    "title" : "Montagne surréaliste"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-watercolor_portrait-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Pour créer ce portrait coloré, vous avez besoin d'une image en noir et blanc. Touchez Filtres > N&B > choisissez un préréglage pour créer l’image en noir et blanc.",
+      "title" : "Portrait en aquarelle"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Touchez + pour ajouter une photo représentant une tache de couleur. Redimensionnez la photo par pincement de façon à recouvrir l’image d’arrière-plan.",
+      "title" : "Ajoutez de la couleur !"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step2.jpg",
+        "label" : "2. Principal"
+      }],
+      "text" : "Touchez Fusion. Sélectionnez Éclaircir.",
+      "title" : "Fusion"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step3.jpg",
+        "label" : "3. Principal"
+      }],
+      "text" : "Appuyez de façon prolongée sur le calque supérieur. Faites-le glisser sur le calque du bas pour fusionner les images.",
+      "title" : "Fusionner des calques"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step4.jpg",
+        "label" : "4. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque de remplissage.",
+      "title" : "Superposition bis"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step5.jpg",
+        "label" : "5. Remplir"
+      }],
+      "text" : "Touchez Papier. Sélectionnez le papier que vous préférez, puis touchez la flèche de retour.",
+      "title" : "Ajouter une texture"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step6.jpg",
+        "label" : "6. Principal"
+      }],
+      "text" : "Touchez Fusion > sélectionnez Multiplier. ",
+      "title" : "Re-mélanger"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step7.jpg",
+        "label" : "7. Principal"
+      }],
+      "text" : "Glissez-déposez le calque du haut sur celui du bas pour les fusionner.",
+      "title" : "Fusionnez-les de nouveau"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-step8.jpg",
+        "label" : "8. Pellicule"
+      }],
+      "text" : "Touchez Filtres > Pellicule > FL1. Touchez de nouveau l’écran pour ajuster, puis touchez Rayures. Sélectionnez Specks > SP7. Touchez la coche.",
+      "title" : "Plus de texture"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-watercolor_portrait-after.jpg",
+        "label" : "9. Éléments"
+      }],
+      "text" : "Touchez + et ajoutez un calque d’élément pour finaliser votre composition.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "advanced",
+    "thumbnail" : "tutorial-watercolor_portrait-thumbnail.jpg",
+    "key" : "Watercolor Portrait",
+    "title" : "Portrait en aquarelle"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-Frametastic-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Ajoutez une touche colorée à un portrait grâce aux effets et aux éléments.",
+      "title" : "Frametastic"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-step1.jpg",
+        "label" : "1. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque vide. Travaillez ensuite sur ce calque vide.",
+      "title" : "Superposition"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-step2.jpg",
+        "label" : "2. Pinceaux"
+      }],
+      "text" : "Touchez Pinceaux > Magique > Pointe pinceau. Sélectionnez ES7, puis appliquez-le à votre photo.",
+      "title" : "Splash !"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-step3.jpg",
+        "label" : "3. Élément"
+      }],
+      "text" : "Touchez + pour ajouter un élément. Remplacez l’élément ajouté par ES10 et ajustez-le à l’image.",
+      "title" : "Encadrez votre visage"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-step3.jpg",
+        "label" : "4. Élément"
+      }],
+      "text" : "Touchez la flèche de retour pour ajuster la couleur.",
+      "title" : "Colorisation"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-step4.jpg",
+        "label" : "5. Gomme"
+      }],
+      "text" : "Touchez l’outil Gomme pour afficher certaines parties de l'élément.",
+      "title" : "Effacer et révéler"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-Frametastic-after.jpg",
+        "label" : "6. Pinceaux"
+      }],
+      "text" : "Essayez d'autres packs de pinceaux magiques pour obtenir un autre rendu. ",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-Frametastic-thumbnail.jpg",
+    "key" : "Frametastic",
+    "title" : "Frametastic"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-BoldBeautiful-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Fêtez l'été avec un didacticiel sur la typographie à la fois original et lumineux.",
+      "title" : "Original et beau"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step1.jpg",
+        "label" : "1. Cadre"
+      }],
+      "text" : "Touchez Cadre. Sélectionnez BO1 et balayez l'écran pour ajuster l'effet. Touchez de nouveau le préréglage pour choisir une couleur.",
+      "title" : "Choisir un cadre"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step2.jpg",
+        "label" : "2. Principal"
+      }],
+      "text" : "Touchez + pour ajouter un calque Texte.",
+      "title" : "Nouveau calque"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step3.jpg",
+        "label" : "3. Texte"
+      }],
+      "text" : "Touchez Modifier pour saisir un message exaltant. Touchez Police, puis sélectionnez CR3. Touchez la flèche de retour.",
+      "title" : "Personnaliser"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step4.jpg",
+        "label" : "4. Convertir"
+      }],
+      "text" : "Touchez Convertir pour convertir ce calque en calque d’image. Vous pouvez alors modifier ce calque sous forme d’image.",
+      "title" : "Convertissez-le"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step5.jpg",
+        "label" : "5. Duo"
+      }],
+      "text" : "Touchez Effets > Duo. Touchez deux fois le préréglage pour choisir sa forme et ses couleurs. Essayez différents modes de fusion. Touchez la coche.",
+      "title" : "Amélioration par dégradé"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-step6.jpg",
+        "label" : "6. Principal"
+      }],
+      "text" : "Utiliser la Gomme pour masquer des parties de texte derrière votre image.",
+      "title" : "Masquer le texte"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-BoldBeautiful-after.jpg",
+        "label" : "7. Filtres"
+      }],
+      "text" : "Glissez-déposez des calques pour les fusionner, puis ajoutez un filtre pour ajouter votre touche finale. ",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "medium",
+    "thumbnail" : "tutorial-BoldBeautiful-thumbnail.jpg",
+    "key" : "Bold & Beautiful",
+    "title" : "Original et beau"
+  },
+
+  {
+    "slides" : [
+    {
+      "images" : [
+      {
+        "image" : "tutorial-teen_spirit-before.jpg",
+        "label" : "Avant"
+      },
+
+      {
+        "image" : "tutorial-teen_spirit-after.jpg",
+        "label" : "Après"
+      }],
+      "text" : "Apportez une touche nostalgique à n’importe quelle photo avec ce tutoriel des années 90.",
+      "title" : "Teen Spirit"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-teen_spirit-step1.jpg",
+        "label" : "1. Filtres"
+      }],
+      "text" : "Commencez par choisir un portrait. Touchez Filtre > pack Pellicule > choisissez un préréglage. Touchez de nouveau le préréglage pour configurer et tester les réglages.",
+      "title" : "Ambiance analogique"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-teen_spirit-step2.jpg",
+        "label" : "2. Filtres"
+      }],
+      "text" : "Touchez Rayures. Sélectionnez ES1 et faites glisser pour ajuster. Touchez la coche.",
+      "title" : "Ajouter des rayures"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-teen_spirit-step3.jpg",
+        "label" : "3. FX lum."
+      }],
+      "text" : "Touchez Effets > FX lum. > ES9. Touchez de nouveau ES9 pour régler Teinte sur 11. Touchez la coche.",
+      "title" : "Fuites de lumière"
+    },
+
+    {
+      "images" : [
+      {
+        "image" : "tutorial-teen_spirit-after.jpg",
+        "label" : "4. Vignetage"
+      }],
+      "text" : "Focalisez votre image. Touchez Effets > Vignetage > pincez pour ajuster.",
+      "title" : "Touche finale"
+    }],
+    "difficulty" : "easy",
+    "thumbnail" : "tutorial-teen_spirit-thumbnail.jpg",
+    "key" : "Teen Spirit",
+    "title" : "Teen Spirit"
+  }]
+}
