@@ -3,3 +3,6 @@
 
 /* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
 "Upgrade to yearly" = "Jährlich zahlen";
+
+/* The new string of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"New string" = "Neue Zeichenkette";
