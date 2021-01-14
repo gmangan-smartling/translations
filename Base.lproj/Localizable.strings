@@ -3,3 +3,6 @@
 
 /* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
 "Upgrade to yearly" = "Upgrade to yearly";
+
+/* The new string of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"New string" = "New string";
