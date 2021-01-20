@@ -6,3 +6,6 @@
 
 /* Label on a button for purchasing subscription that renews every x months */
 "Months" = "Mois";
+
+/* Label on a button for purchasing subscription that renews every x months */
+"Year" = "Année";
