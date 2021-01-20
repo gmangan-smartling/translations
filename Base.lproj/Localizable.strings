@@ -1,8 +1,8 @@
-/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
-"Continue with monthly" = "Continue with monthly";
+/* Description that appears when undoing/redoing a step that moves a widget, for example \"Text: Move\" or \"Mask: Move\". The %@ should remain in the translated string, and will be replaced by the localized title of the widget */
+"%@: Move" = "%@: Move";
 
-/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
-"Upgrade to yearly" = "Upgrade to yearly";
+/* Label on a button for purchasing subscription that renews every one month */
+"Month" = "Month";
 
-/* The new string of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
-"New string" = "New string";
+/* Label on a button for purchasing subscription that renews every x months */
+"Months" = "Months";
