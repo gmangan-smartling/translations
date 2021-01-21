@@ -9,3 +9,9 @@
 
 /* Label on a button for purchasing subscription that renews every x months */
 "Year" = "Année";
+
+/* Label on a button for purchasing subscription that renews every x months */
+"Day" = "Jour";
+
+/* Label on a button for purchasing subscription that renews every x months */
+"A new string" = "Une nouvelle chaîne";
